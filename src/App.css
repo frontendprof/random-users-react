@@ -1,0 +1,14 @@
+
+body{
+    height: 100vh;
+}
+
+.app{
+    min-height: 100vh;
+    font-family: 'Metal Mania', cursive;
+    color:rgb(121, 6, 6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size:3rem;
+}
