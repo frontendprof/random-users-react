@@ -1,14 +1,14 @@
 
 body{
     height: 100vh;
+    background-color:lightblue;
 }
 
 .app{
-    min-height: 100vh;
+    min-height: 50vh;
     font-family: 'Metal Mania', cursive;
     color:rgb(121, 6, 6);
     display: flex;
     justify-content: center;
-    align-items: center;
     font-size:3rem;
 }
